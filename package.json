@@ -1,0 +1,19 @@
+{
+  "name": "tape-measure",
+  "version": "0.1.0",
+  "description": "Measure distance between two points uisng player location. Displays distance in chat.",
+  "keywords": [],
+  "license": "LGPL-3.0-or-later",
+  "author": {
+    "name": "_MotokoKusanagi",
+    "email": "screwthisusernameprocess@gmail.com",
+    "url": "https://github.com/VastInfiniteNet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VastInfiniteNet"
+  },
+  "dependencies": {
+    "rinode": "0.1.0"
+  }
+}
